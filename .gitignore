@@ -1,0 +1,11 @@
+.vscode
+*.csv
+*.html
+*.txt
+settings.json
+test.ipynb
+.DS_Store
+*.avi
+*.json
+*.wav
+*.png
